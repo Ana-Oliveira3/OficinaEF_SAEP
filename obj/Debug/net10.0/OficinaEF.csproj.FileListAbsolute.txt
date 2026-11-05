@@ -409,3 +409,4 @@ C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\SAEP\Ofi
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\SAEP\OficinaEF\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\SAEP\OficinaEF\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\SAEP\OficinaEF\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\SAEP\OficinaEF\obj\Debug\net10.0\OficinaEF.sourcelink.json
